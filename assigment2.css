@@ -1,0 +1,20 @@
+.list{
+  display: grid;
+  grid-template-columns:250px 260px 260px ; 
+  vertical-align: top;
+ margin-top: 0px;
+ padding-top: 0px ;
+  }
+  .photo1{
+    width:240px; 
+    border-radius: 4px;
+   
+  }
+  .photo2{
+    width:250px;
+    border-radius: 4px;
+  }
+  .photo3{
+    width:250px;
+    border-radius: 4px;
+  }
